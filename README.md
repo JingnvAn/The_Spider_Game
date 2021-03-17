@@ -1,2 +1,4 @@
 # The_Spider_Game
-This is to document my effort in programing, and please, if you are taking cs31 now, you cannot use this as your solution. 
+Used character-based graphics and C++. The Player (@) can move up, down, left or right in a matrix filled with spiders (s). Each
+spider will move one step in a random direction in each turn. The goal is to avoid standing in the same grid as the spider.
+Player can kill one spider by jumping over it. Spider dies if hitting the grid boarder.
