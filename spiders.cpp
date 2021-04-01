@@ -1,6 +1,6 @@
 //  project7
 //
-//  Created by Jingnu An on 6/2/20.
+//  Created by Jingnu An in spring 2020.
 //  spiders.cpp
 
 // Portions you are to complete are marked with a TODO: comment.
